@@ -1,0 +1,7 @@
+E:\codechef\ReverseTheNumber\bin\Debug\ReverseTheNumber.exe.config
+E:\codechef\ReverseTheNumber\bin\Debug\ReverseTheNumber.exe
+E:\codechef\ReverseTheNumber\bin\Debug\ReverseTheNumber.pdb
+E:\codechef\ReverseTheNumber\obj\Debug\ReverseTheNumber.csprojAssemblyReference.cache
+E:\codechef\ReverseTheNumber\obj\Debug\ReverseTheNumber.csproj.CoreCompileInputs.cache
+E:\codechef\ReverseTheNumber\obj\Debug\ReverseTheNumber.exe
+E:\codechef\ReverseTheNumber\obj\Debug\ReverseTheNumber.pdb
